@@ -1,0 +1,370 @@
+File Name,Project Name,Accolade Number,Product Name,Project Type,Project Description,Formula Number ,R&D Project Owner(s),Sector,Originating R&D Cente,Current TSG Stage,Food Safety Assessor(s),Date Submitted to FS,Which HTD Type Does This FSHA Version Pertain to,Manufacturing site(s) for product,Plant trial location for product,Note any novel packaging materials or uses,Category Product Desc - Product Name,Category Product Name and Brief Description,Process platform,Intrinsic product attributes that may impact safety & stability ,preservatives,pH or Titratable Acidity,waterActivity,packaging,Other Food Safety Attributes,allergens,Product Storage & Distribution Requirements,shelfLife,Target Consumer Group,Food Safety-Related Product Claims,Will the product be cooked or heated by the consumer? ,Will the product need specific storage requirements after opening,Labeling Instructions,Is the product likely to be mishandled by the consumer,Are there any vulnerable groups in the target market?,Is This Project Eligible for Fast Track TSG,Is there a new base product?,Are there new equipment or process modifications?,Is there a new ingredient supplier or supplier site?,"Are there novel packaging materials or, for already approved packaging materials, will they be used in a  novel way",Is there a potential for microbial growth in the product?- actual,Is there a potential for microbial growth in the product?- predicted
+#57877 FSHA 5.4.1 - RoccoJellyIceCream- TBS- Final.xlsm,TBS Rocco Ice Cream SKU change EER Turkey,#57787,Rocco Jelly Ice Cream,Brand Stewardship,Current ice cream shaped jelly confectionary product will be relaunched in smaller package. ,P02727,Didem OZKASIKCI,ESSA,Istanbul Turkey,G4,Helen BOODEN ,2019-06-12 00:00:00,Scale Up,COMAN- Kervan Gida Istanbul ,COMAN- Kervan Gida Istanbul ,None ,Rocco Jelly Ice Cream ,Soft Candy,"Mixing,cooking,forming,starch moulding,coating with oil and sugar",NA,None,"pH 3.0-3.4 /Total acidity 1,2-2,2",0.6-0.7,No,No,May contain gluten,"15-30C, RH 30-60%",18 months,Adult ,No claims,No,No,"Storage instructions: 'Store at cool and dry place, keep away from direct sun light.'",No,No,Fast Track is allowed for this project.,No,No,No,No,No,Yes
+36559-FSHA-in process (Phase 1 Indian pellet launch).xlsm,Simba Shapes Next Gen,36559,"Simba Shapes - Playz, Simba Shapes Twistz",Breakthrough - South Africa & Nigeria,"Purchase an existing Pellet spec used by PepsiCo in India, Fry, Season and Pack at Co-man KFC. Co-man is existing but may not be compliant to current ESSA standards so line qualification may be required.",unknown,Dina Atoyan (+7(495)9370550 (*63402) ),ESSA,Beaumont Park / Johannesburg,Stage 3,Helen Booden,17.11.17,Scale Up,"KFC, Johannesburg","KFC, Johannesburg",As existing,"Simba Shapes - Playz, Simba Shapes - Twistz","Pellet Snacks (Twist and 3D Hexagon) containing potato and cereals
+Pellets: Gluten, Wheat, Sulphites","Pellet Extrusion, Fried, Seasoned, Packed",NA,None,n/a ,"Pellet (<0.6), Finished Product (<0.15)",Nitrogen flushed?,Moisture Content of Pellet : 10 - 12 %,"Inherent:
+Cheddar Playz: Cereals containing Gluten, Milk, Sulphites
+Tomato Salsa Playz: Cereals containing Gluten, Soya, Sulphites
+Saucy BBQ Twistz: Cereals containing Gluten, Milk, Soya, Sulphites
+Sweet & Spicy Chutney Twistz: Cereals containing Gluten, Milk, Soya, Sulphites.
+
+Cross Contact:
+Cheddar Playz: Soya
+Tomato Salsa Playz: Milk
+Saucy BBQ Twistz: None
+Sweet & Spicy Chutney Twistz: None",Ambient ,"TBC Target 16 weeks, Explore 26 weeks",LSM 3 - 5 and 4 - 7 - Working families and rising strivers (young professionals),n/a ,No ,Ambient Storage,None ,No ,"Suitable for consumers, potential choking hazard for younger children.
+
+Potentially children in families.",Fast Track is NOT allowed for this project.,Yes,Yes,Yes,No,No,No
+36559-FSHA-in process (Phase 2 Next Gen Launch) Playz.xlsm,Simba Shapes Next Gen,36559,Simba Shapes - Playz,Breakthrough - South Africa & Nigeria,"Commission a new pellet line in Prospecton, South Africa to produce Playz and Twistz under Simba Shapes. Fry, Season and Pack as per Phase 1 project at KFC Co-man",unknown,Dina Atoyan (+7(495)9370550 (*63402) ),ESSA,Beaumont Park / Johannesburg,Stage 3,Helen Booden,17.11.17,Scale Up,Prospecton (South Africa),Prospecton (South Africa),As existing,Simba Shapes - Playz,"Pellet Snacks (Twist and 3D Hexagon) containing potato and cereals
+Pellets: Gluten, Wheat, Sulphites","Pellet Extrusion, Fried, Seasoned, Packed",NA,None,n/a ,"Pellet (<0.6), Finished Product (<0.15)",Pellet WIP packaging not N2 flushed. 6 month standard shelf life for pellet.,Moisture Content of Pellet : 10 - 12 %,"Pellets Inherent:
+Cereals containing Gluten - Wheat, Sulphites
+
+Cross Contact (on Prospecton Line): None
+
+Cross Contact (on KFC Fry-Pack Line): See Phase 1 FSHA",Ambient ,"TBC Target 16 weeks, Expor 26 weeks",LSM 3 - 5 and 4 - 7 - Working families and rising strivers (young professionals),n/a ,No ,Ambient Storage,None ,No ,"Suitable for consumers, potential choking hazard for younger children. ",Fast Track is NOT allowed for this project.,Yes,Yes,Yes,No,No,No
+36559-FSHA-in process (Phase 2 Next Gen Launch) Twistz.xlsm,Simba Shapes Next Gen,36559,Simba Shapes Twistz,Breakthrough - South Africa & Nigeria,"Commission a new pellet line in Prospecton, South Africa to produce Playz and Twistz under Simba Shapes. Fry, Season and Pack as per Phase 1 project at KFC Co-man",unknown,Dina Atoyan (+7(495)9370550 (*63402) ),ESSA,Beaumont Park / Johannesburg,Stage 3,Helen Booden,17.11.17,Scale Up,Prospecton (South Africa),Prospecton (South Africa),As existing,Simba Shapes Twistz,"Pellet Snacks (Twist and 3D Hexagon) containing potato and cereals
+Pellets: Gluten, Wheat, Sulphites","Pellet Extrusion, Fried, Seasoned, Packed",NA,None,n/a ,"Pellet (<0.6), Finished Product (<0.15)",Pellet WIP packaging not N2 flushed. 6 month standard shelf life for pellet.,Moisture Content of Pellet : 10 - 12 %,"Pellets Inherent:
+Cereals containing Gluten - Wheat, Sulphites
+
+Cross Contact (on Prospecton Line): None
+
+Cross Contact (on KFC Fry-Pack Line): See Phase 1 FSHA",Ambient ,"TBC Target 16 weeks, Expor 26 weeks",LSM 3 - 5 and 4 - 7 - Working families and rising strivers (young professionals),n/a ,No ,Ambient Storage,None ,No ,"Suitable for consumers, potential choking hazard for younger children. ",Fast Track is NOT allowed for this project.,Yes,Yes,Yes,No,No,No
+49961 NG Q3'19 BNL-FR - FSHA-In Process 22.11.18.xlsm,BNL/FR NG Q3 2019,49961,Duyvis Unsalted / Benenuts Plaisir Brut,Refresh,"Delivery to market of a fried unsalted nut mix, seasoned with infused topical oils. The base will include one flavoured nut (cashew or almond, sprayed with infused oil) mixed with 2 unflavoured nuts (peanuts and cashew or almond).
+Each nut will be fried individually on line 1 or 3. The unflavoured nuts will be stored in the storage carts. The flavoured nuts will be sprayed with topical flavoured oil, and then topically coated by existing herbs eg. dried parsley or a new topical powder for visuals.",PF00NG2019,Chris King 07833441614,ESSA,Beaumont Park,2,Helen Booden,26.10.18,Plant Trial,"Zaandam, NL","Zaandam, NL",None,Duyvis Unsalted / Benenuts Plaisir Brut,NA,Fried nut mix,NA,None,tbc,tbc,N2 flushed,NA,"Inherent product allergens: Peanuts, treenuts
+Current fryer line allergens: Peanuts, treenuts
+Current seasoning line allergens: Peanut, treenut, gluten, soya, celery
+Current mixing line allergens: Peanuts, treenuts, gluten, lactose, soya",Ambient storage and distribution,26wks,Midlifers,None,No,No,None,No,No,Fast Track is allowed for this project.,No,No,No,No,No,No
+56236 Streetmix Mumbai Reformulation - FSHA - In Progress - 20.02.19.xlsm,Sensations Streetmix Mumbai Value Engineering,56236,Sensations Streetmix inspired by Mumbai,Productivity,To reformulate Streetmix Inspired by Mumbai to remove Cashew nuts. Reducing Curry Flavoured Cashew nuts in the mix from 20% of the formulation to 0%. Increasing the Curry Flavoured Peanuts in the mix from 16% to 36%.,"MDBV2 PF03830, SAP 240006358",Chris King 07833441614,ESSA,Beaumont Park,G2,Khyati Trivedi,20.02.19,Scale Up,Zaandam,No trial,None,Nuts Mix,Streetmix inspired by Mumbai contains: Single Coated peanut with indian onion flavour; rice sticks with black pepper flavour; peanuts with curry corriander flavour; rice crackers with curry flavour,RTE components mixed,NA,TBC,NA,TBC,Nitrogen flushing,Low moisture product,"Inherent: Peanut, wheat, barley, soya
+Cross contact: Treenuts, milk, lactose, mustard, sulphites, celery",None,Product quality failure,25-35yr olds,None,No,"Once opened, consume within 7 days",None,No,Nuts - allergies and choking hazard,Fast Track is allowed for this project.,No,No,No,No,No,No
+Copy of Copy of FSHA 5.4.1 Rocco Jelly Coll beans + FS input 25.05.18.xlsm,Rocco jelly Beans,#50506,Rocco jelly Beans,Refresh,"Existing supplier product , no need development. 
+We will  be producing jelly beans with the Rocco brand making not any changes in the product and packaging. 
+Product, Pack and new materials requires qualification to ensure conformance to PepsiCo requirements.
+Process is existing for current PepsiCo products: jellies and gums.",to be confirmed,Ozlem Ozten,ESSA,Turkey ,G2 is done.G3&G4 will be approved on 8th of May,Helen Booden ,2018-03-21 00:00:00,Scale Up,KERVAN GIDA- Istanbul,KERVAN GIDA- Istanbul,None,Rocco jelly cool beans ,"Soft Coated Jelly Candy
+Molded standard jelly candy is firstly coated with sugar than coated with soft coating containing colour, flavour and glazing  agent manually by drums","Cooking, molding, conditioning, soft coating, packaging",NA,None,"pH: 3,3, total acidity: 1,12",0.47,No,-,"Inherent: No allergens
+Cross-contact from the same line: No allergens
+Cross-contact within the plant: Gluten (from Wheat) and Soya. These are currently labelled as 'May contain' on all PepsiCo products produced at the plant.","15-30°C, RH %30-60",365 days,Adult ,NA,No,No,"Storage instructions. ""Store at cool and dry place, keep away from direct sun light.""",No,No,Fast Track is NOT allowed for this project.,Yes,No,Yes,No,No,Yes
+Copy of FSHA 5.4.1 Rocco Jelly Coll beans + FS input 16.05.18.xlsm,Rocco jelly Beans,#50506,Rocco jelly Beans,Refresh,"Existing supplier product , no need development. 
+We will  be producing jelly beans with the Rocco brand making not any changes in the product and packaging. 
+Product, Pack and new materials requires qualification to ensure conformance to PepsiCo requirements.
+Process is existing for current PepsiCo products: jellies and gums.",to be confirmed,Ozlem Ozten,ESSA,Turkey ,G2 is done.G3&G4 will be approved on 8th of May,Helen Booden ,2018-03-21 00:00:00,Scale Up,KERVAN GIDA- Istanbul,KERVAN GIDA- Istanbul,None,Rocco jelly cool beans ,"Soft Coated Jelly Candy
+Molded standard jelly candy is firstly coated with sugar than coated with soft coating containing colour, flavour and glazing  agent manually by drums","Cooking, molding, conditioning, soft coating, packaging",NA,None,"pH: 3,3, total acidity: 1,12",0.47,No,-,"Inherent: No allergens
+Cross-contact from the same line: No allergens
+Cross-contact within the plant: Gluten (from Wheat) and Soya. These are currently labelled as 'May contain' on all PepsiCo products produced at the plant.","15-30°C, RH %30-60",365 days,Adult ,NA,No,No,"Storage instructions. ""Store at cool and dry place, keep away from direct sun light.""",No,No,Fast Track is NOT allowed for this project.,Yes,No,Yes,No,No,Yes
+Copy of Kids Granola 46767 FSHA 25.04.18.xlsm,Kids Granola,46767,Kids Granola: a combination of granola clusters and extruded animal shapes,Breakthrough," Combination of Clusters and animal shapes with inclusions to deliver a RTE breakfast for Kids .
+3 SKUs: Honey,chocolate and Strawberry
+
+Existing cluster base (Classic) produced at Rotterdam plus extruded animal shapes (produced at Co-man NM foods) and  freeze dried inclusions.
+Chocolate: classic cluster+chocolate animal shapes+ plain animal shapes
+Honey: Classic cluster+plain animal shapes+extruded maize balls
+Strawberry: Classic cluster+ plain animal shapes+freeze dried fruit
+Leveraging existing materials at Rotterdam and introducing similar ingredients that are currently in use in the factory
+",Kids Granola,Lidia Gonzalez Marcos/07768107463,ESSA,Beaumont Park,Gate 2,Opeyemi Sanwoolu,2018-01-15 00:00:00,Plant Trial,Rotterdam and NM Foods,Rotterdam,None,Quaker Kids Granola,RTE Kids Granola: mix of oat granola in crunchy small clusters and oat animal shapes,RTE Granola and extruded,NA,NA,NA,"Yes , low Aw",NA,NA,Gluten ,ambient storage and distribution,12 months,Kids,None,"No, product will be RTE, served with Milk",NA,NA,No,Product targeted for Kids ( 6-12 years old),Fast Track is allowed for this project.,No,No,No,No,No,No
+Doritos Bits Final - FSHA 5.4.1 04.02.19.xlsm,Doritos-Bits roll out in ESSA-TUR,51689,Doritos Bits,Breakthrough," Doritos Bits for on the go consumption. Existing base recipe and 2 seasonings existing on the line. Packaging bag size shape change, no material structure or gauge change.",NA,Guvenc Demir,ESSA,Istanbul,"G3, G4",Helen Booden,2019-01-16 00:00:00,Scale Up,Turkey - Suadiye Plant,None,None,Fritos shots,Fritos category; corn chips of Taco and Extreme seasonings fried with palm olein oil.,Fried,NA,NA,NA,"moisture up to 2.5%, wa below under theshold for mold creation,thus is shelf stable like all core salty snacks products.",Polymount opp,None,"Existing allergens in production line -  cereals containig gluten, milk and sulphites
+Existing allergens in plant overall - cereals containig gluten, milk, sulphites, peanut and soya","Keep in cool, dry, away from sun place",4 months,young adults/adult,NA,NA,Keep away from direct sunlight and heat,Warning as 'Please eat carefully for risk of choking' onto the bag,NA,NA,Fast Track is allowed for this project.,No,No,No,No,No,No
+Duyvis NG Unsalted Cashews 51876-FSHA 5.4.1- 11.06.2018 + FS 26.06.18.xlsm,NG Single Serve Cashews,51876,"Duyvis Unsalted Cashews
+",Refresh,Duyvis Unsalted Cashews Lift and Shift ,"P00974, M01556",Laura Alvarez /+447818470041,ESSA,Zaandam/Beaumont Park ,Development,Helen Booden,11.06.18,Scale Up,Zaandam,Zaandam,None,"Duyvis Unsalted Cashews
+","Duyvis Unsalted Cashews -Fried unsalted cashews
+","Duyvis Unsalted Cashews -Fried unsalted cashews
+",NA,NA,NA,-,Nitrogen flushed ,NA,"INHERENT:
+
+Duyvis Unsalted Cashews - Treenuts (Cashews)
+
+
+POTENTIAL CROSS-CONTACT from other products to Unsalted Cashews:
+WIP Bins/Carts: gluten/milk/peanuts/soya/celery/mustard
+Packaging line:  gluten/milk/peanuts/soya/celery 
+","Store in a cool dry place,",Sensory failure,25-35yr olds who are in to their food and culture,NA,No,"Store in a cool dry place, once opened consume within 7 days. ",NA,Not expected,People with known food intolerances and nut allergy. ,Fast Track is allowed for this project.,No,No,No,No,No,No
+Duyvis NG Unsalted Walnuts 51876-FSHA 5.4.1 26.06.18.xlsm,NG Unsalted Nuts,#51876 - NG Unsalted Nuts,"
+Duivys Unsalted Walnuts ",Refresh,"
+Duyvis Unsalted Walnuts - NPD
+Walnuts are a RTE material already in use in Zaandam as part of other mixes. Hence, the new sku will represent a NPD as they will be sold as a solo product in the packaging. No treatment is done in the Walnuts, only unpack from initial packaging and repack in Duyvis printed film.","Walnuts - M03017
+",Laura Alvarez /+447818470041,ESSA,Zaandam/Beaumont Park ,Development,Helen Booden,07.06.18,Scale Up,Zaandam,Zaandam,None,Duivys Unsalted Walnuts ,"Duyvis Unsalted Walnuts - Treenuts
+","Duyvis Unsalted Walnuts -  RTE material -re packed in Zaandam
+",NA,NA,NA,-,Nitrogen flushed ,NA,"INHERENT:
+
+Duyvis Unsalted Walnuts - Treenuts (Walnuts)
+
+
+POTENTIAL CROSS-CONTACT from other products to Unsalted Walnuts:
+WIP Bins/Carts: gluten/milk/peanuts/soya/celery/mustard
+Packaging line: Bins/Carts: gluten/milk/peanuts/soya/celery 
+","Store in a cool dry place,",Sensory failure,Mid-lifers,NA,No,Store in a dry place. An open bag can best be kept in a light-and air-tight drum.,NA,Not expected,This package may contain (traces of) peanuts and other types of nuts. Remember: small children can choke on peanuts and nuts. People with known food intolerances and nut allergy. ,Fast Track is NOT allowed for this project.,Yes,No,No,No,No,No
+FSHA 5#39814 Ruffles Pellets mix TUR + FS input 11.04.18.xlsm,Ruffles Pellet mix,39814,Pellet,Reframe,We will use new base of raw pellets. Equipment will be the same. Seasonings are L&S.,-,Ksenia Nazarchuk,ESSA,Moscow,G2,Helen Booden,2017-02-15 00:00:00,Scale Up,Tarsus/Suadiye,Turkey,None,Pellet,Reframe,fried pellet,NA,No,n\a,Low water activity,nitrogen,"frying temperature 180C, residence 8-10 sec","Inherent:
+
+Nacho Cheese: 
+Milk, Wheat, Lactose, Gluten.
+
+Mexicana:
+Wheat, Gluten
+
+Salted:
+Wheat, Gluten
+
+Potential cross contact from the line: 
+
+Peanuts (labelled on all products as May Contain), Soya, Milk.","Keep at temperature 25 °C, <75% humidity",6 months,Not provided by R&D Product,Not applicable,No,"Keep at temperature 25 °C, <75% humidity",Potato should be the main ingredient,No,No,Fast Track is NOT allowed for this project.,Yes,No,Yes,No,No,No
+FSHA 5.4.1 Corn gritz validation-Trial stage 9.05.19.xlsm,Alternative Corn Grits material qualification for Cheetos Foudounia,NA,Cheetos Foudounia,Bussiness continuity,"To validate alternative supplier of corn grits from Vital company used for extruded base production.
+Supplier is approved by PepsiCo for production trial.
+No new hazards for the line from material and for the extruded base.
+No changes in BoP.
+No new allergens for plant.",TBC,Artsimovich Andrey,ESSA,"Alcon, Moscow",NA,Booden Helen,17.04.19,Plant Trial,"Athens, Greece",Athens,None,Cheetos Foudounia,Extruded corn gritz with slurry application. (no flavouring on product. Only peanut paste),Extruded,NA,NA,NA,low water activity - TBC,NA,NA,No new allregens for the line and plant from alternative ingredient.,Na,4 months,Kids,NA,"No, ready to eat   ",No,NA,NA,NA,Fast Track is allowed for this project.,No,No,Yes,No,No,No
+FSHA 5.4.1new Popcorn raw material validation FINAL.xlsm,PRD Low grow popcorn,# 47162,Clipsy Salted Popcorn,Productivity,"Project  is a long-term strategic  supply initiative, developing opportunities in a growing segment of snack category. Project objective is to have Popcorn growing  in Serbia vs. USA wich will be reduce freight costs, eliminate  import taxes , reduce costs & delays / supply risks  due to additional fumigation of  imported popcorn via sea freight. Popcorn variety and supplier is same as in current popcorn from Ramsey ex USA. Location of growing of popcorn is Serbia. Potential to change Country of origin of ingredients on back of pack to include Serbia. No other packaging changes required. New crop 2017  to be validate if popcorn meets Weak link and all other established quality requirements. Sensory test will be validated if new locally grown popcorn is within approved product variability range.
+
+",MA00626,Svetlana Radisic,ESSA,EER R&D,G4,Helen Booden,31.05.18,Scale Up,Maglic Plant/ Serbia,Maglic Plant/ Serbia,none,Clipsy Salted Popcorn,PRD Low grow popcorn,air poped popcorn,NA,n/a,n/a,n/a,n/a,n/a,no allergen in product. May contain peanut traces,"Store in a dry, cool and away from sun place ",4 month,Families with kids,n/a,no the product is ready for use,not required,All allergens from product and potential cross contamination will be listed and bolded on back of pack. Country of origin of popcorn will be listed on back of pack.,no,no,Fast Track is NOT allowed for this project.,No,No,Yes,No,No,No
+FSHA Feasibility Trial 15.08.18 - No oil added peanuts Final.xlsm,No oil added peanuts,Not Applicable,No oil added peanuts,Refresh,"Seasoning development for the No oil added product that is produced at Duyvis, Zaandam. This is a seasoning which is premixed with maltodextrine, salt and rice flour. If this seasoning is diluted in water it will stick directly on the roasted peanuts. ",P240005934,Maarten Buteijn (0031652679130),ESSA,Utrecht,Pre-TSG,Helen Booden,2018-07-30 00:00:00,Plant Trial,"Duyvis, Zaandam","Duyvis, Zaandam",None,No oil added peanuts,roasted salted peanuts. The salt is sticked with Maltodextrine on the peanuts in this way you don't need to stick the salt via HOSO oil on the peanuts and therefore you don't add oil to the peanuts.,"peanuts roasted in hot air, than the slurry will be applied. After the aplication of slurry the product will be dried.",NA,Inherent - Salt,TBC,Low water activity finished product,"Not packed in trial, running to waste",TBC,"Inherent: Peanuts
+
+Line cross contact: Gluten containing cereals, Treenuts, Sulphites.
+
+Plant cross contact: Gluten containing cereals, Treenuts, Sulphites, Milk, Soya, Celery, Mustard.",Store in a cool dry place.,TBC,Not applicable for trial,Not applicable for trial,No,No,NA,No,Whole peanuts not suitable for children <36 months,Fast Track is allowed for this project.,No,No,No,No,No,No
+FSHA Feasibility Trial 15.08.18 - No oil added peanuts.xlsm,No oil added peanuts,Not Applicable,No oil added peanuts,Refresh,"Seasoning development for the No oil added product that is produced at Duyvis, Zaandam. This is a seasoning which is premixed with maltodextrine, salt and rice flour. If this seasoning is diluted in water it will stick directly on the roasted peanuts. ",P240005934,Maarten Buteijn (0031652679130),ESSA,Utrecht,Pre-TSG,Helen Booden,2018-07-30 00:00:00,Plant Trial,"Duyvis, Zaandam","Duyvis, Zaandam",None,No oil added peanuts,roasted salted peanuts. The salt is sticked with Maltodextrine on the peanuts in this way you don't need to stick the salt via HOSO oil on the peanuts and therefore you don't add oil to the peanuts.,"peanuts roasted in hot air, than the slurry will be applied. After the aplication of slurry the product will be dried.",NA,Inherent - Salt,TBC,Low water activity finished product,"Not packed in trial, running to waste",TBC,"Inherent: Peanuts
+
+Line cross contact: Gluten containing cereals, Treenuts, Sulphites.
+
+Plant cross contact: Gluten containing cereals, Treenuts, Sulphites, Milk, Soya, Celery, Mustard.",Store in a cool dry place.,TBC,Not applicable for trial,Not applicable for trial,No,No,NA,No,Whole peanuts not suitable for children <36 months,Fast Track is allowed for this project.,No,No,No,No,No,No
+GAP 3 FSHA 5.4.1.xlsm,Fritlos Baler Re-design  (GAP 3) ,2016-0629,Fritos Baler ,Refresh ,"Fritos baler is cooked, sheeted, fried and seasoned corn product (yellow maize). The corn is fried in 85:15 Palmolein: Corn oil blends and seasoned with Fritos tangy tomato and fruit chutney flavours to develop redesigned Fritos base product. The product is then packed in flexible packaging adhesive laminated foil bag and finally in polyethylene baler bag.
+Changes within this project include new cutter design within the sheeting step, thicker sheet, change in primary packging size.",TBC,Sherwin Tlhoaele / Gabisile Buthelezi ,ESSA,"Clearwater Boksburg, South Africa",Gate 3 to Gate 4,Helen Booden,20.08.2018,Scale Up,"Picola Foods, Corn line","Brits, North West",None ,Fritos Tangy Tomato & Fruit Chutney ,"corn, the corn is Cooked, soaked, sheeted and fried  corn product and seasoned with sprinkle seasoning",Sheeted  ,NA,None,NA,Low water activity,Adhesive laminate with no Nitrogen flushing,NA,"Fritos Tangy Tomato
+Inherent: Soya, Wheat Gluten 
+Potential cross contact from plant: Milk    
+                          
+Fritos Fruit Chutney
+Inherent: Soya    
+Potential cross-contact from line: Wheat, Gluten   
+Potential cross-contact from plant: Milk                                                                 ",Store in a cool dry place at ambient temperature,"Code Date: 16 weeks
+Export Code date: 24 weeks 
+","Daytime Gap fill: Young and Hungry, Low Income Consumers",No claims made ,Ready to eat snack,Do not store open product ,No,Product if left open will absorb moisture; product might be used in baking or cooking.,"Small pieces can be a choke hazard, Not suitable for young children <36 months, volatile seasoning",Fast Track is NOT allowed for this project.,No,Yes,No,Yes,No,No
+Peanuts qual FSHA 5.4.1 12.02.19.xlsm,Peanuts Qualification for Pakworks ,NA,"Salted peanuts, Peanuts and Raisins, Peanut Corn Raisin Mix",Business Continuity,To approve a new material (peanuts) supplier for 3 products at Pakworks.,Not provided,Sherwin Tlhoaele / Errol Netshidzivhani,ESSA,South Africa,NA,"Khyati Trivedi, Helen Booden",2019-02-05 00:00:00,Plant Trial,Pakworks(Co-Man),Pakworks(Co-Man),Packaging remains as per current,Salted Peanuts,Nuts,"Roasting, blanching and frying",NA,None,None,Low water activity finished product,Adhesive laminate with no Nitrogen flushing,NA,Nuts,Store in a cool dry place at ambient temperature,"Code Date: 16 weeks
+Export Code date: 26 weeks 
+","LSM 3-5, Male Skewed, 13-24",No claims made ,Ready to eat snack,Do not store open product,No,Product left open will absorb moisture,No,Fast Track is NOT allowed for this project.,No,No,Yes,No,No,No
+S-T3-Star value pellet-Poland_FSHA 11.04.18.xlsm,S T3 Star value pellet Poland,45038,"1SKU Meaty
+2SKU Spicy",Brand Refresh,"StarPelletNPDproducts(2SKUs) will be anextension of current Star pellets portfolio (Star Pra?ynki:Salted&Bacon, Star Twistos:Fromage&TexasGrill, StarRo?ki:Cheese, Paprika&Savoury). New Pellet and both seasonings taken from regular suppliers portfolio.
+
+Pellet base is new, will be bought as a material from an existing approved supplier.
+
+Seasoning specs are existing and will be new to Tomaszow plant.",NA,Tomasz Bajcer/ Agnieszka Hornung,ESSA,Warsaw,G4,Helen Booden,2018-01-22 00:00:00,Scale Up,Tomaszow plant,"Tomaszow plant, trial conducted on 18/01/2018",None,"1SKU Star Pellet Spicy
+2 SKU Star Pellet meaty","Fried wheat&potato pellet, flavoured with seasoning.","Frying, Seasoning, Packing (pellet bought in as material)",NA,None,Not applicable,low moisture food,no modified atmosphere,Not applicable,"Allergens in each product:
+
+Meaty SKU (BBQ CQ45) Inherent allergens: Wheat, Soya, Sulphites (<10 ppm)
+
+Spicy SKU (Chicken Wings RZ-596-839-9) Inherent allergens: Wheat, Milk, 
+
+Cross contact allergens from line and plant:
+The product may contain peanut and existing products produced in the plant have PAL for peanut.
+Existing allergens in manufacturing plant: celery, cereals containing gluten (wheat, barley, oats), milk, mustard, peanuts, soya.
+Existing allergens on production line: gluten, wheat, soya, milk, lactose, celery, mustard, barley","Store in a dry, cool and away from sun place.",26 weeks,Older Families with kids over 12 y.o.,no,No,No,n/a,No,"People with allergies to milk, lactose, peanuts.",Fast Track is NOT allowed for this project.,Yes,No,Yes,No,No,No
+Sensations Street Mix 36910(Bangkok)-FSHA 5.4.1- FINAL 25.05.2018.xlsm,Sensations Street Mix,#36910 - Streetmix Bangkok,StreetMix Bangkok,Reframe,"Sensations Street Mixes is a multi texture, multi flavour mix of 4 concepts built under the street food concept. All of the materials in the full range are RTE products from external suppliers. (each mix will be assessed in individual FSHAs)
+Bangkok Mix includes: 
+Creamy cashews/Coconut Flakes/Thai lime pea snaps/Chilli Crackers",TBC,Laura Alvarez /+447818470041,ESSA,Zaandam/Beaumont Park ,Development,Helen Booden,24.01.2018,Scale Up,Zaandam,Zaandam,None,StreetMix Inspired by Bangkok,"Creamy cashews: Fried cashews
+Coconut Flakes: dried coconut flakes
+Thai lime pea snap:  
+Chilli Crackers: fried rice crackers","Creamy cashews: Fried 
+Coconut Flakes: dried 
+Thai lime pea snap:  Baked
+Chilli Crackers: fried ",NA,not communicated by R&D,NA,not communicated by R&D,Nitrogen flushed ,not communicated by R&D,"INHERENT:
+Creamy cashews: Treenuts
+Coconut Flakes: N/A
+Thai lime pea snaps: soya, wheat, milk
+Chilli Crackers: soya, wheat
+
+POTENTIAL CROSS-CONTACT from other products (including other Street mix SKUs) to Bangkok Mix:
+Mixing Line: Peanuts
+WIP Bins/Carts: Peanuts, Celery
+
+POTENTIAL CROSS-CONTACT from Bangkok Mix to existing products on Mixing Line, WIP Bins/Carts, Packaging Lines: Milk (new allergen to the lines from Bangkok Mix).
+","Store in a cool dry place,",Sensory failure,25-35yr olds who are in to their food and culture,NA,No,"Store in a cool dry place, once opened consume within 7 days. ",NA,Not expected,People with known food intolerances and nut allergy. ,Fast Track is NOT allowed for this project.,Yes,Yes,Yes,No,No,No
+Sensations Street Mix 36910(Bangkok-Nauta)-FSHA 5.4.1- FINAL 06.06.2018.xlsm,Sensations Street Mix,#36910 - Streetmix Bangkok,StreetMix Bangkok,Reframe,"Sensations Street Mixes is a multi texture, multi flavour mix of 4 concepts built under the street food concept. All of the materials in the full range are RTE products from external suppliers. (each mix will be assessed in individual FSHAs)
+Bangkok Mix includes: 
+Creamy cashews/Coconut Flakes/Thai lime pea snaps/Chilli Crackers",TBC,Laura Alvarez /+447818470041,ESSA,Zaandam/Beaumont Park ,Development,Helen Booden,05.06.18,Scale Up,Zaandam,Zaandam,None,StreetMix Inspired by Bangkok,"Creamy cashews: Fried cashews
+Coconut Flakes: dried coconut flakes
+Thai lime pea snap: baked rice cracker
+Chilli Crackers: fried rice crackers","Creamy cashews: Fried 
+Coconut Flakes: dried 
+Thai lime pea snap:  Baked
+Chilli Crackers: fried ",NA,not communicated by R&D,NA,not communicated by R&D,Nitrogen flushed ,not communicated by R&D,"INHERENT:
+Creamy cashews: Treenuts (Cashews), Peanuts (from cross-contamination)
+Coconut Flakes: None
+Thai lime pea snaps: Soya, Wheat, Milk
+Chilli Crackers: Soya, Wheat
+
+POTENTIAL CROSS-CONTACT from other products (Including other Street Mix SKUs) to Bangkok Mix:
+Mixing Line: Peanuts
+WIP Bins/Carts: None with dedicated bins to Bangkok mix
+Packaging line: Peanuts, Celery
+
+POTENTIAL CROSS-CONTACT from Bangkok Mix to existing products on: 
+Mixing Line: Milk, Soya, Wheat, Gluten
+WIP Bins/Carts: None with dedicated bins to Bangkok mix
+Packaging Lines: Milk 
+","Store in a cool dry place,",Sensory failure,25-35yr olds who are in to their food and culture,NA,No,"Store in a cool dry place, once opened consume within 7 days. ",NA,Not expected,People with known food intolerances and nut allergy. ,Fast Track is NOT allowed for this project.,Yes,Yes,Yes,No,No,No
+Sensations Street Mix 36910(Mexico with Fava)-FSHA 5.4.1- FINAL 25.05.18.xlsm,Sensations Street Mix,#36910 - Streetmix Mexico,StreetMix Inspired by Mexico,Reframe,"Sensations Street Mixes is a multi texture, multi flavour mix of 4 concepts built under the street food concept. All of the materials in the full range are RTE products from external suppliers. (each mix will be assessed in individual FSHAs)
+Mexico Mix includes: 
+Tortilla Sticks/Roasted and Salted Beans/Mexican Spiced Nuts/Chilli Crackers",TBC,Laura Alvarez /+447818470041,ESSA,Zaandam/Beaumont Park ,Scale UP,Dale Parker/Helen Booden,23.01.2018,Scale Up,Zaandam,Zaandam,None,StreetMix Inspired by Mexico,"Tortilla Sticks: tortilla stick with tex mex flavour
+Fava Beans:  roasted and salted broad beans
+Soft Corn: roasted and salted corn 
+Mexican Spiced Nuts: Double coated peanuts with Mexican Flavour 
+Chilli Crackers: fried rice crackers","Tortilla Sticks: fried tortilla masa
+Fava Beans:  roasted and salted broad beans
+Soft Corn: roasted and salted corn 
+Mexican Spiced Nuts: Double coated fried peanuts
+Chilli Crackers: fried rice crackers",NA,not communicated by R&D,NA,not communicated by R&D,Nitrogen flushed ,not communicated by R&D,"INHERENT:
+Tortilla Sticks: Milk (via potential cross contamination)
+Fava Beans: N/A
+Soft Corn: N/A
+Mexican Spiced Nuts: peanuts, wheat, milk
+Chilli Crackers: soya, wheat
+
+POTENTIAL CROSS-CONTACT from other products (including other Street mix SKUs) to Mexico Mix:
+Mixing Line: Treenuts
+WIP Bins/Carts: Treenuts
+Packaging Line: Treenuts, Celery
+
+POTENTIAL CROSS_CONTACT from Mexico Mix to existing products on Mixing Line, WIP Bins/Carts, Packaging Lines: Milk (new allergen to the lines from Mexico Mix).
+","Store in a cool dry place,",Sensory failure,25-35yr olds who are in to their food and culture,NA,No,"Store in a cool dry place, once opened consume within 7 days. ",NA,Not expected,People with known food intolerances and nut allergy. ,Fast Track is NOT allowed for this project.,Yes,Yes,Yes,No,No,No
+Sensations Street Mix 36910(Mumbai)-FSHA 5.4.1- FINAL 25.05.2018.xlsm,Sensations Street Mix,36910 Streetmix Mumbai,StreetMix Mumbai,Reframe,"Sensations Street Mixes is a multi texture, multi flavour mix of 4 concepts built under the street food concept. All of the materials in the full range are RTE products from external suppliers. Each mix will be assessed in individual FSHAs.
+ includes: 
+Spiced Onion Nuts, Black Pepper Sticks, Curry Coriander Peanuts and Cashews, Indian Rice Crackers",New number tbc,Laura Alvarez 00447818470041,ESSA,Zaandam/Beaumont Park ,Scale Up,Helen Booden,26.01.2018,Scale Up,Zaandam,Zaandam,None,TBC - StreetMix Mumbai,"Spiced Onion Nuts: single coated mixed nuts with malakka (indian onion) flavour
+Black Pepper Sticks: rice sticks with pepper flavour
+Curry Coriander Peanuts & Cashews: mix of peanuts and cashews with curry coriander slurry (NEW seasoning for Zaandam)*Attached FSHA
+Indian Rice Crackers: rice crackers with curry flavour","Spiced Onion Nuts: coated, fried
+Black Pepper Sticks: baked
+Curry Coriander Peanuts & Cashews: Peanuts - roasted; cashews - fried
+Indian Rice Crackers: fried",NA,not communicated by R&D,NA,not communicated by R&D,Nitrogen flushed ,not communicated by R&D,"INHERENT:
+Spiced Onion Nuts: peanuts, wheat, barley
+Black Pepper Sticks: soya, wheat
+Curry Coriander Peanuts & Cashews: cashews, peanuts.
+Indian Rice Crackers: Soya, wheat
+
+POTENTIAL CROSS-CONTACTfrom existing products (including other Street Mix SKUs) to Mumbai Mix:
+Mixing Line: Milk
+WIP Bins/Carts: Milk
+Packaging Line: Celery, Milk
+
+","Store in a cool dry place,",Sensory failure,25-35yr olds who are in to their food and culture,NA,No,"Store in a cool dry place, once opened consume within 7 days. ",NA,Not expected,People with known food intolerances and nut allergy. ,Fast Track is NOT allowed for this project.,Yes,Yes,Yes,No,No,No
+Streetmix-Curry Coriander PC 36910-FSHA-FINAL 24.05.18.xlsm,StreetMix,36910,Curry Coriander Cashews and Peanuts for Street Mix Mumbai Mix,Reframe," Launch a premium range of 4 mixes under the Sensations Range in the UK. Within the mix there is a range of different products, mainly nuts and rice crackers.  Range of mixes: Mexico, Mumbai, Bangkok.
+Curry coriander Cashews and Peanut (part of the Mumbai mix), re-introduction of product that was manufactured in the past in Zaandam. Process to manufacture is the same as the existing Pure and  Natural in the Netherlands with a new seasoning from Griffith. new seasoning, but existing raw materials. No new allergens are introduced in the plant. ",NA,Laura Alvarez (00447818470041),ESSA,Zaandam/Beaumont Park ,Scale Up,Helen Booden,2018-01-10 00:00:00,Scale Up,Zaandam,Zaandam,None,Curry Coriander Cashews and Peanuts,"Nuts and Seeds
+Curry coriander Cashews and Peanuts, pre-fried and oven baked peanuts and cashews flavoured with a curry coriander slurry seasoning. ","Nut & Seeds 
+Curry Coriander nuts,  pre-fried and oven baked",NA,Not communicated by R&D,Not communicated by R&D,Not communicated by R&D,"WIP bags,  part of a mix",Not communicated by R&D,"INHERENT:
+Curry Coriander Cashews and Peanuts: Peanuts, cashews
+
+POTENTIAL CROSS CONTACT from line: Gluten, Sulphites
+
+POTENTIAL CROSS CONTACT from plant: Gluten, Soya, Celery, Mustard, Sulphites, Milk
+
+","Store in a cool dry place,",Sensory failure,25-35yr olds who are in to their food and culture,NA,No,Product is a WIP part of StreetMix,Product is a WIP part of StreetMix,Not expected,People with known food intolerances and nut allergy. ,Fast Track is NOT allowed for this project.,No,No,Yes,No,No,No
+44228 - FSHA - Tropican  Gunaydin.xlsm,NF –N3 Tropicana –Tropicana GUNAYDIN-TUR,44228,Tropicana Good Morning Juice Drink with Walnut Flavour and Honey,Refresh,Change in fruit Juice variety. ,Tropicana GUNAYDIN-TUR,Emrah Secilmis / +90-850-2794029,ESSA,Lebedyansky,Scale Up,"Opeyemi Sanwoolu, Fedor Kholodov",2018-04-18 00:00:00,Scale Up,Corlu Plant / Turkey,N/a,None,Tropicana Good Morning Juice Drink with Walnut Flavour and Honey,"NF –N3 Tropicana –Tropicana GUNAYDIN-TUR
+Launch new Juice Drink with 30% juice: 
+Tropicana Gunaydin (Good Morning) mixed fruit drink with Walnut flavouring and Honey (0.1%) 
+In compliance with Silver criteria: Sugar content max 5% (w/v)",NA,NA,None,"Titratable Acidity is 0.25 (%, citric acid)",N/a,TetraPak,None,None,Ambient storage and distribution,9 months,25+ Female ,None,No,The product needs to be stored in refrigerator and consumed within 2 days after the package is opened.,NA,No,No,Fast Track is NOT allowed for this project.,Yes,No,Yes,No,Yes,Yes
+45469 HTD.xlsm,B-T3-Pepsi-Pepsi & 7Up 33CL PET Sevilla-BEL,45469,"Pepsi, 7up",Refresh,"Import of Pepsi and 7up range from Spain (Sevilla) in 33cl PET bottle to Belgium. Existing bottle, existing formulas (Spain produces with the same formula numbers like Belgium), existing PAL scheme.","Pepsi      F4963 = 35009-80-22-01 
+Pepsi Max   35005-08-31-01 
+Pepsi Max Cherry  35005-23-04-01 
+7Up Reg Stevia   F-4067 v1 
+7Up Mojito Free  F-4193 
+",Stephanie Krenz ('+353 870940372),ESSA,Cork,3,Opeyemi Sanwoolu,2017-09-21 00:00:00,Scale Up,"Sevilla, Spain","Sevilla, Spain","none, all materials approved for EU region",Pepsi and 7up range,CSD,cold fill,NA,No preservatives,2.8-3.0,Not applicable,CO2,None , No, Ambient, No food safety risk, General population, no,no,refrigerated,None ,no,no,Fast Track is allowed for this project.,No,No,No,No,No,Yes
+45469.xlsm,B-T3-Pepsi-Pepsi & 7Up 33CL PET Sevilla-BEL,45469,"Pepsi, 7up",Refresh,"Import of Pepsi and 7up range from Spain (Sevilla) in 33cl PET bottle to Belgium. Existing bottle, existing formulas (Spain produces with the same formula numbers like Belgium), existing PAL scheme.","Pepsi      F4963 = 35009-80-22-01 
+Pepsi Max   35005-08-31-01 
+Pepsi Max Cherry  35005-23-04-01 
+7Up Reg Stevia   F-4067 v1 
+7Up Mojito Free  F-4193 
+",Stephanie Krenz ('+353 870940372),ESSA,Cork,3,Opeyemi Sanwoolu,2017-09-21 00:00:00,Scale Up,"Sevilla, Spain","Sevilla, Spain","none, all materials approved for EU region",Pepsi and 7up range,CSD,cold fill,NA,No preservatives,2.8-3.0,Not applicable,CO2,None , No, Ambient, No food safety risk, General population, no,no,refrigerated,None ,no,no,Fast Track is allowed for this project.,No,No,No,No,No,Yes
+48953_RU Productivity Mega Siberia-FSHA-in process_v03.xlsm,PRD - RU Productivity Project Mega Siberia,48953,"70 SKUs (incl Ya, J7, FS, Lubimyi brands):see file attached",Productivity,"Relocate production line / capacities from Levedyan to Novosibirsk to be closer to the demand point  in order to save on primary transportation without impact on current portfolio:                                                                                        - 2 production lines in scope - 1L Edge and 0.2 L Base;                    - 70 current SKUs in carton - the whole scope of formula is presented in the file attached;                                                         - 4 current brands (Ya, J7, FS, Lubimyi).                                                 - 15 formula are new for the production site (current for PepsiCo) see file attached.                                                                                        -23 items of Raw material are new for the production site. 
+                                                                                                     For all SKUs:
+No allergens  
+No preservatives
+No carbonated
+Existing  Packaging Material, several elements are new for the production site, HTD for package changes is supported by the Packaging team.
+Existing Process
+No equipment modifications 
+",Current Recipes for All SKUs,Dina Mukhamedzyanova/Elena Titova,ESSA,Moscow (Russia),G3,Intisar Khan,2018-04-16 00:00:00,Scale Up,NSK (Russia),NO,New materials of package are described in HTD prepared by Packaging team,Please see file attached,"38 recipes incl 15 new formula for the production site (Ya, J7, FS, Lubimyi brands)
+",Current aseptic technology process -  0.95L Edge and 0.2L Base,NA,NO,pH< 4.2 (depending on formula) ,n/a,"Aseptic technology process in Tetra Pack: 0.95L Edge; 0,2L Base",NO,NO,"Ambient, store and distribute at 0…+25 °C and relative air humidity not more 75%.",Shelf life carton – 12 month ,Suitable for children starting from 3 years ,NO,Product is ready-to-eat,"Chilled, opened pack at +2…+6 °C – 24 hours",Ready to drink. Shake well before usage,"Ambient, store and distribute at 0…+25 °C and relative air humidity not more 75%, if not - no",not suitable for children < 12 months,Fast Track is NOT allowed for this project.,No,No,Yes,No,No,Yes
+Copy of 44228 - FSHA - In Process 20180305 (2).xlsm,NF –N3 Tropicana –Tropicana GUNAYDIN-TUR,44228,Tropicana Good Morning Juice Drink with Walnut Flavour and Honey,Refresh,Change in fruit Juice variety. ,Tropicana GUNAYDIN-TUR,Emrah Secilmis / +90-850-2794029,ESSA,Lebedyansky,Scale Up,"Opeyemi Sanwoolu, Fedor Kholodov",2018-04-18 00:00:00,Scale Up,Corlu Plant / Turkey,N/a,None,Tropicana Good Morning Juice Drink with Walnut Flavour and Honey,"NF –N3 Tropicana –Tropicana GUNAYDIN-TUR
+Launch new Juice Drink with 30% juice: 
+Tropicana Gunaydin (Good Morning) mixed fruit drink with Walnut flavouring and Honey (0.1%) 
+In compliance with Silver criteria: Sugar content max 5% (w/v)",NA,NA,None,"Titratable Acidity is 0.25 (%, citric acid)",N/a,TetraPak,None,None,Ambient storage and distribution,9 months,25+ Female ,None,No,The product needs to be stored in refrigerator and consumed within 2 days after the package is opened.,NA,No,No,Fast Track is NOT allowed for this project.,Yes,No,Yes,No,Yes,Yes
+Copy of 46757_ITA_250ml_Cans_FSHA 5.4.1.xlsm,"B-T3-Pepsi-Pepsi Max 0,250 Can-ITA",46757,"Pepsi
+Pepsi Max ",Refresh,In&Out (two runs of 200000 cans) - existing formulas that are already produced at San Benedetto will go into sleek cans for sales initiative. Formulas already produced in cans (can warranty obtained) and sleek cans are already produced at this line as well,Pepsi Max 35005*08*31-01 v6,Stephanie Krenz,ESSA,Cork,G3,Opeyemi Sanwoolu,2017-11-16 00:00:00,Scale Up,A. M. S. Benedetto – line 39 – Italian Market,plant trial not foreseen,none,"Pepsi
+Pepsi Max","Pepsi: regular cola flavoured CSD
+Pepsi Max: non sugar cola flavoured CSD",CSD cold fill,NA,Non preserved,"pH:2,75",None,"can, low pH product, shelf stable",Co2 ,None ,ambient storage and distribution,"Pepsi: flavours' off-notes
+Pepsi Max: sweetener degradation and flavours' off-notes",general population,Pepsi Max: It contains aspartame: it's a source of phenilalanine,no,refrigerated,None,no,no,Fast Track is allowed for this project.,No,No,No,No,Yes,Yes
+Copy of 4945352142-FSHA-In process 20180618.xlsm,Tropicana Anatolian Mix Reformulation & PRD - Anatolian Mix Reformulation,49453 & 52142 (PRD),Tropicana Anatolian Fruit Mix Nectar,Productivity,The fruit part of the product will be decreased from 50% to 47.5% by a reduction in the dosage of Anatolian fruit mix base and Orange base. There will not be any new raw material to be used.,FC 1141.162.005 Anatolian Fruit Mix Nectar rev 07,Emrah Seçilmi? / +90-850-2794029,ESSA,Lebedyansky,Development,"Opeyemi Sanwoolu, Fedor Kholodov",2018-05-31 00:00:00,Scale Up,"Corlu Plant / Turkey, ?zmir Plant / Turkey, Adana Plant / Turkey, Dimes Plant / Turkey (Co-packer)",N/a,None,Tropicana Anatolian Fruit Mix Nectar,"Mixed Nectar from juice and puree concentrates
+Existing formula composed of 30% Apple juice, 12% Orange Juice, 5% Lemon Juice, 3% Peach Juice. Juice content will be decrased from 50% to 47.5% by an equal reduction in the amount of each fruit. After this reduction in both bases in the formula, Vitamin A content will be also decreased from 320 ?g to 240 ?g. Added sugar content is 7,2 g/100 mL. 
+",Aseptic,NA,None,"max pH is 3.20 and TA is 0,47 ± 0.03",N/a,TetraPak,None,None,Ambient storage and distribution,9 months,25+ Female ,None,No,The product needs to be stored in refrigerator and consumed within 2 days after the package is opened.,NA,No,No,Fast Track is allowed for this project.,No,No,No,No,No,Yes
+Copy of 4945352142-FSHA-In process.xlsm,Tropicana Anatolian Mix Reformulation & PRD - Anatolian Mix Reformulation,49453 & 52142 (PRD),Tropicana Anatolian Fruit Mix Nectar,Productivity,The fruit part of the product will be decreased from 50% to 47.5% by a reduction in the dosage of Anatolian fruit mix base. There will not be any new raw material to be used.,FC 1141.162.005 Anatolian Fruit Mix Nectar rev 07,Emrah Seçilmi? / +90-850-2794029,ESSA,Lebedyansky,Development,"Opeyemi Sanwoolu, Fedor Kholodov",2018-05-31 00:00:00,Scale Up,"Corlu Plant / Turkey, ?zmir Plant / Turkey, Adana Plant / Turkey, Dimes Plant / Turkey (Co-packer)",N/a,None,Tropicana Anatolian Fruit Mix Nectar,"Mixed Nectar from juice and puree concentrates
+Existing formula composed of 30% Apple juice, 12% Orange Juice, 5% Lemon Juice, 3% Peach Juice. Juice content will be decrased from 50% to 47.5% by an equal reduction in the amount of each fruit. Added sugar content is 7,2 g/100 mL. 
+",Aseptic,NA,None,"max pH is 3.20 and TA is 0,47 ± 0.03",N/a,TetraPak,None,None,Ambient storage and distribution,9 months,25+ Female ,None,No,The product needs to be stored in refrigerator and consumed within 2 days after the package is opened.,NA,No,No,Fast Track is allowed for this project.,No,No,No,No,No,Yes
+Copy of Ac.num 45495-NF-T3-Sadochok New taste of Ukraine-FSHA.xlsm,"NF-T3-Sadochok-Sadochek ""New taste of Ukrain-UKR",45495,2 products: Apple-aronia-blueberry clear nectar FC; Apple-mint juice drink FC,Refresh,"Apple-aronia-blueberry clear nectar FC, juice content - 49 %, pH=3,7.  Ingredients: apple concentrated juice, aronia concentrated juice, blueberry concentrated juice, sugar, citric acid, ascorbic acid, blueberry natural flavouring, water. Apple-mint juice drink FC, juice content - 30 %, pH=3.7. Ingredients: Apple concentrated juice, sugar, citric acid, ascorbic acid, mint flavouring, apple natural flavouring, water.                                                                                                    For both:                                                                                                   No allergens  
+No preservatives
+No carbonated                                                                                             
+Existing  Packaging Material
+Existing Process
+No equipment modifications
+New raw material ((Blueberry concentrated juice fron approved supplier) - chemical, biological and phyzical hazards and new ingredients (Blueberry natural flavouring and nana water soluble flavor (the same is the mint flavouring) from approved suppliers) - chemical and phyzycal hazards) are needed to be qualified. Process in progress
+",Apple-aronia-blueberry clear nectar FC ? 1141.121.726; Apple-mint juice drink FC ? 1141.121.722,Kateryna Dodonova-Sudina,ESSA,R&D Kiev,G2,Opeyemi Sanwoolu ,2017-11-23 00:00:00,Plant Trial,Nikolaev-1 and Nikolaev-2 (Ukraine),Nikolaev-2,none,Apple-aronia-blueberry clear nectar FC; Apple-mint clear  juice drink FC,"Juices and juice drinks category under brand Sadochok in Ukraine. Category positioning - VFM segment. Consumers - parents 25-45 y.o. with kids, traditionalists, average income level. Value for money.
+
+
+ 
+",FC current aseptic technology process,NA,NO,"pH=3,7 for both products",n/a,"Aseptic technology process in Elo Pack (liquid carton) 0,95L",NO,NO,"Ambient, store and distribute at 0…+25 °C and relative air humidity not more 75%.",Shelf life carton – 12 month ,"Parents 25-45 y.o. with kids, traditionalists, average income level",NO,"NO, ready to drink","Chilled, opened pack at +2…+6 °C – 24 hours",Ready to drink. Shake well before usage,"Ambient, store and distribute at 0…+25 °C and relative air humidity not more 75%, if not - no",not suitable for children < 12 months,Fast Track is allowed for this project.,No,No,No,No,Yes,Yes
+Copy of Acc_45469_FSHA 5.4.1 (2).xlsm,B-T3-Pepsi-Pepsi & 7Up 33CL PET Sevilla-BEL,45469,"Pepsi, 7up",Refresh,"Import of Pepsi and 7up range from Spain (Sevilla) in 33cl PET bottle to Belgium. Existing bottle, existing formulas (Spain produces with the same formula numbers like Belgium), existing PAL scheme.","Pepsi      F4963 = 35009-80-22-01 
+Pepsi Max   35005-08-31-01 
+Pepsi Max Cherry  35005-23-04-01 
+7Up Reg Stevia   F-4067 v1 
+7Up Mojito Free  F-4193 
+",Stephanie Krenz ('+353 870940372),ESSA,Cork,3,Opeyemi Sanwoolu,2017-09-21 00:00:00,Scale Up,"Sevilla, Spain","Sevilla, Spain","none, all materials approved for EU region",Pepsi and 7up range,CSD,cold fill,NA,No preservatives,2.8-3.0,Not applicable,CO2,None , No, Ambient, No food safety risk, General population, no,no,refrigerated,None ,no,no,Fast Track is allowed for this project.,No,No,No,No,No,Yes
+Copy of Acc_45469_FSHA 5.4.1.xlsm,B-T3-Pepsi-Pepsi & 7Up 33CL PET Sevilla-BEL,45469,"Pepsi, 7up",Refresh,"Import of Pepsi and 7up range from Spain (Sevilla) in 33cl PET bottle to Belgium. Existing bottle, existing formulas (Spain produces with the same formula numbers like Belgium), existing PAL scheme.","Pepsi      F4963 = 35009-80-22-01 
+Pepsi Max   35005-08-31-01 
+Pepsi Max Cherry  35005-23-04-01 
+7Up Reg Stevia   F-4067 v1 
+7Up Mojito Free  F-4193 
+",Stephanie Krenz ('+353 870940372),ESSA,Cork,3,Opeyemi Sanwoolu,2017-09-21 00:00:00,Scale Up,"Sevilla, Spain","Sevilla, Spain","none, all materials approved for EU region",Pepsi and 7up range,CSD,cold fill,NA,No preservatives,2.8-3.0,NA,CO2,NA, No, Ambient, No food safety risk, General population, no,no,refrigerated,NA,no,no,Fast Track is allowed for this project.,No,No,No,No,No,Yes
+Copy of Copy of Oats and Seeds 47048-FSHA-In Process.xlsm,Oats and Seeds  Oats ,47048,"Oats and Quinoa, Oats and Pumpkin Seeds",Refresh ,"Quaker HOTS Oat So Simple, standard sachets, no added flavours, 2 SKUS: Wholegrain Rolled Oats with Quinoa and Wholegrain Rolled Oats with Pumpkin Seeds. Usong existing standard OSS sachets and OSS technology, ingredients are already qualified as RTE and used in similar products.",Quinoa 5 percent Pumpkin Seeds 10 percent,Aurora Barraza/ 7775002961,ESSA,Beaumont Park,Gate 2,Opeyemi Sanwoolu,2017-11-20 00:00:00,Plant Trial,Cupar Plant,Cupar Plant,None,Quaker- Oats So Simple: Oats + (Quinoa / Pumpkin Seeds),"Quaker HOTS Oat So Simple, no added flavours, 2 SKUS: Wholegrain Rolled Oats with Quinoa and Wholegrain Rolled Oats with Pumpkin Seeds.",Quaker HOTS,NA,NA,NA,"Yes , low Aw",NA,NA,As per current Cupar Site Allergens,ambient storage and distribution,12 months,Adults ,None,As per standard OSS products,NA,As per standard OSS products,Cooking instructions provided ,NA,Fast Track is allowed for this project.,No,No,No,No,Yes,No
+Copy of Copy of Quaker CruesliFSHA.xlsm,NG-T3-Quaker-GR Quaker RTE Crispy Choco and App-GRC,49758,"Quaker Cruesli-2flavours:
+1) Crispy Chocolate 450g
+2) Apple Pie (Apple – Pecan nuts) 450g",Brand Refresh (Export),Cruesli-2 new flavours export from Benelux & France. No other changes to product or process.,Quaker-GR Quaker RTE Crispy Choco and App-GRC,Trisha Nakeshree,ESSA,Beamuont Park,Gate 2 and 3,Opeyemi Sanwoolu,2018-02-28 00:00:00,Scale Up,"Rotterdam, NL","Rotterdam, NL",No new packaging materials. ,"Quaker Cruesli
+Apple flavoured Cruesli, apple slices with red skin and pecan nuts
+Chcolate canilla Cruesli, Crispy chcolate and chocolate coated flakes","Porridge to Go Squares.
+Wholegrain oat cereal bar with cinnamon flavour.",baking granola,NA,No artificial preservatives,n/a,<0.65,n/a,n/a,"Nuts, Milk, Oats, Wheat.",Ambient storage and distribution.,9 months shelf life.,indulgent in home breakfast,n/a,"Morning Breakfast
+While having breakfast (78%). Generally eaten with milk (60%), yoghurt (20%) or plain (2%) -Mainly eaten cold
+",Store in cool dry place. ,No.,No.,No.,Fast Track is allowed for this project.,No,No,No,No,No,Yes
+Copy of cruesli export FSHA.xlsm,NG-T3- Quaker UK Quaker Cruesli Lauch H2 2018-UKI,49783,"Quaker Cruesli Apple & Raisin
+Quaker Cruesli 4 Nuts
+Quaker Cruesli Red Fruits",Brand Refresh,"UK Quaker Cruesli Launch H2 2018.
+Project classified as Refresh by commercialisation but will be treated as export by R&D. No changes to current products recipes or process.",Quaker Cruesli  varieties ,Monica Talsania,ESSA,Beamuont Park,Gate 4,Opeyemi Sanwoolu,2018-03-01 00:00:00,Scale Up,"Rotterdam, Netherlands","Rotterdam, Netherlands",No new packaging materials. ,"Quaker Cruesli Apple & Raisin
+Quaker Cruesli 4 Nuts
+Quaker Cruesli Red Fruits","Quaker Cruesli 
+Delicious and full grain cereal mix based on golden brown roasted oats.",Granola Process,NA,Sulphites in Apple & Raisin SKU,n/a,Moisture target: 3.5-3.9 %,n/a,Validated kill step already performed for the existing Cruesli products,"Quaker Cruesli Apple & Raisin
+Oats, wheat, sulphur dioxide.
+May contain: nuts (cross contamination)
+Quaker Cruesli 4 Nuts
+Oats, wheat, brazil nuts, hazelnuts, almonds, pecans.
+May contain: nuts (cross contamination)
+Quaker Cruesli Red Fruits
+Oats, wheat.
+May contain: nuts (cross contamination)
+",Ambient storage and distribution.,9 months shelf life.,"50%/50% male/female, 18-50years",n/a,No.,Store in cool dry place. ,No.,No.,No.,Fast Track is allowed for this project.,No,No,No,No,No,Yes
+Copy of FSHA 5.4.1 (Toma Multivitamin 330 ml PET for POL) (2).xlsm,NF-T3-Toma-Toma Juice Multivitamin L&S-POL,39817,Toma Juice Multivitamin,Brand Refresh,"Introduction of Toma 100% Multivitamin in PET 330 ml packaging for Poland, via existing formula used in 1 L aseptic carton (Elopak) packaging manufactured in Prague. Existing Toma portfolio in 330 ml PET (barier preform) (100% orange, 100% apple, 25% black currant, 30% peach) will be extended by 100% Multivitamin. Shelf life test and vitamins stability verified by trial test.",Toma 100% percentage MTV,Lukas Egert,ESSA,Moscow,G3,Opeyemi Sanwoolu,2018-02-28 00:00:00,Scale Up,"Prague, Czech Republic",n/a,n/a,Toma Juice Multivitamin,Juice,"flash pasteurised, aseptic PET",NA,n/a,"pH 2,9 - 3,9
+TA 7,0 - 8,6",n/a,Nitrogen,n/a,n/a,ambient,6 months,"Healthy lifestyle group, children, families
+
+",n/a,n/a,"After opening, keep refrigerated and use within 3 days.","Store in cool and dry place. Protect against direct sun and frozing.
+Shake well before opening.",n/a,n/a,Fast Track is allowed for this project.,No,No,No,No,Yes,Yes
+Copy of FSHA 5.4.1 Copella Seasonal Blends.xlsm,UK Copella Seasonal Ltd Ed 2018,49283,"Copella Spiced Apple & Copella Apple, Cucumber, Mint",Refresh,"Project is a  flavour extension project- 2 new flavours. Ingredients will be NFC Juices & liquid flavourings. All raw materials will be purchased by Konings.  Process (Boxford as current), packaging (900ml Copella Bottle as current). Launch for Winter SKU W38 2018, Launch for Summer SKU W10 2019.",UK Copella Seasonal,Emma R/00353861650600,ESSA,"Cork, IRE",G2,Opeyemi Sanwoolu,10.05.18,Plant Trial,"Konings, Boxford","Konings, Boxford","No, as current","Copella Spiced Apple & Copella Apple, Cucumber & Mint",NFC  Juice ,ESL,NA,NA,<3.9,N/A ,N/A ,None ,NA,Chilled Distribution,52 days ,Adults and Children,NA,"Winter SKU- Yes, idea of product is to be enjoyed hot or cold
+Summer SKU- No.","Shake well before serving, Keep chilled and consume within 4 days after opening","Shake well before serving, Keep chilled and consume within 4 days after opening",Yes ,No particular risk,Fast Track is allowed for this project.,No,No,No,No,Yes,Yes
+Copy of FSHA 5.4.1 Tropicana Essentials Updated.xlsm,NF-T2-Tropicana-Essentials Relaunch 2018,"37230 (UKI), 37231 (FRA), 45593 (ITA), 45366 (CHE), 45597 (DNK), 45598 (NOR), 45599 (FIN), 45568 (IBR), 40457 (BEL), 40458 (SWE)",Tropicana Essentials new range,Reframe,Launch 5 new flavors on a new coman line (Konings Breda) in a new bottle sizes and design 750ml and 330 ml,Tropicana Essentials new range,Svetlana Glebova,ESSA,"Cork, Ireland",Scale Up,Yemi Sanwoolu,16.10.2017,Scale Up,Blending at Passina then heat treatment and filling at Konings Breda ,"R&D Centre, Cork, Ireland"," Qualifying Green Silgan 38mm 3s closure (Resin & Colorant not approved.Qualification process is underway)
+",Tropicana Essentials new range,Tropicana Essentials juices are chilled NFC fruit&veggie juices ,"cold fill, ESL",NA,no preservatives,4 flavors pH less than 3.9; 1 flavor (Immune Support) pH = 4.0,n/a,n/a,n/a,n/a,chilled storage and distribution,"59 days, chilled","Healthy Habitualists (mainly women, 25-45, ABC1) They want to feel good in their bodies and mind but don’t want to compromise on taste & enjoyment in order to be healthy.",n/a,no,keep refridgerated after opening,Shake well before serving. Keep chilled and consume within 5 days after opening. Separation is natural.,No,No,Fast Track is NOT allowed for this project.,No,No,Yes,Yes,Yes,Yes
+Copy of FSHA 5.4.1 Tropicana Essentials.xlsm,NF-T2-Tropicana-Essentials Relaunch 2018,"37230 (UKI), 37231 (FRA), 45593 (ITA), 45366 (CHE), 45597 (DNK), 45598 (NOR), 45599 (FIN), 45568 (IBR), 40457 (BEL), 40458 (SWE)",Tropicana Essentials new range,Reframe,Launch 5 new flavors on a new coman line (Konings Breda) in a new bottle sizes and design 750ml and 330 ml,NA,Svetlana Glebova,ESSA,"Cork, Ireland",Scale Up,Yemi Sanwoolu,16.10.2017,Scale Up,Blending at Passina then heat treatment and filling at Konings Breda ,"R&D Centre, Cork, Ireland"," Qualifying Green Silgan 38mm 3s closure (Resin & Colorant not approved.Qualification process is underway)
+",Tropicana Essentials new range,Tropicana Essentials juices are chilled NFC fruit&veggie juices ,"cold fill, ESL",NA,no preservatives,4 flavors pH less than 3.9; 1 flavor (Immune Support) pH = 4.0,n/a,n/a,n/a,n/a,chilled storage and distribution,"59 days, chilled","Healthy Habitualists (mainly women, 25-45, ABC1) They want to feel good in their bodies and mind but don’t want to compromise on taste & enjoyment in order to be healthy.",n/a,no,keep refridgerated after opening,Shake well before serving. Keep chilled and consume within 5 days after opening. Separation is natural.,No,No,Fast Track is NOT allowed for this project.,No,No,Yes,Yes,Yes,Yes
+Copy of FSHA 5.4.1_Completed.xlsm,B-T3-Pepsi-AXL Launch-ITA,35605,Pepsi Regular and Pepsi Max 33cl,Refresh,"Switch from Carolina to Axl bottle design for glass bottle in Italy. There is no process or product change anticipated, no new materials used.",35005 08 3101 v6 for Pepsi Max,Stephanie Krenz / 00353870940372,ESSA,Cork,Commercialization,3,2018-02-01 00:00:00,Scale Up,"Buccino, IBG, Italy","Buccino, IBG, Italy",No,"Pepsi
+Pepsi Max","Pepsi: regular cola flavoured CSD
+Pepsi Max: non sugar cola flavoured CSD",CSD cold fill,NA,Non preserved,"pH:2,75",None,"can, low pH product, shelf stable",Co2 ,None ,ambient storage and distribution,"Pepsi: flavours' off-notes
+Pepsi Max: sweetener degradation and flavours' off-notes",general population,Pepsi Max: It contains aspartame: it's a source of phenilalanine,no,refrigerated,None,no,no,Fast Track is allowed for this project.,No,No,No,No,No,Yes
+Copy of FSHA 5.4.1_Future Brands OSS Pots-Poland.xlsm,Future Brands Poland - Quaker OSS Pots,52905,"Quaker Oat So Simple Strawberry, Raspberry Cranberry Porridge Pot
+Quaker Oat So Simple Apple Bluberry Porridge Pot                                 Quaker Oat So Simple Golden Syrup Porridge Pot                                 Quaker Oat So Simple Original Porridge Pot",Business Breakthrough ,"The products will be exported from WESA to Poland in a see & grow test market opportunity in retail.  No changes to product, process or pack.  The packaging will be overstickered into local language.","Pot:                                                                                                                    Strawberry, Raspberry Cranberry
+Apple Bluberry                                                                                     Golden Syrup                                                                                               Original ",Eren Ozbayrak,ESSA,Beaumont Park,G3 & G4,Opeyemi Sanwoolu,2018-07-02 00:00:00,Scale Up,Foodpack,No trial required,None,"Quaker Oat So Simple Strawberry, Raspberry Cranberry Porridge Pot
+Quaker Oat So Simple Apple Bluberry Porridge Pot                                 Quaker Oat So Simple Golden Syrup Porridge Pot                                 Quaker Oat So Simple Original Porridge Pot",Hots,Rolled Oats Dry Blended,NA,NA,NA,Aw: Target < 0.6,N/A ,NA,"Milk. May contain Wheat, Barley, Rye, Egg, Soya and Nuts.","Ambient storage, 6 months shelf life",6 months ,Healthy conscious consumers,None,Yes. Consumers are required add boiling water. Steps:1. dry mix ingredients with spoon. 2. add boiling water of 170ml. 3. Stir for about 15-30sec. 4. Place lid back on top and stand for a min. 5. Stir again.,No ,Just add hot water,"Product not suitable for microwaving
+Product may be hot to hold",No,Fast Track is allowed for this project.,No,No,No,No,No,Yes
+Copy of FSHA AdRush Optimization.xlsm,AdRush SoBe Blend Optimization,50835,Adrenaline Rush,Productivity,"To optimize 2 current AdRush Blends:
+1) 50% taurine reduction + natural caffeine replacement by synthetic one
+2) 50% L-carnetine reduction and 70% guarana reduction",9B110*04*01-01,Sokolova Marina,ESSA,RU51583,G2,Sanwoolu Opeyemi,"March,26th",Scale Up,"Domodedovo, Megapack",Domodedovo  ,n/a,Adrenaline Rush (core and Red),Energy drink,CSD (Energy),NA, - ,"2,7-3,3",n/a,can,"Tunnel pasteurization, Cold Fill",as for current (no identified),as for current (ambient),1 year,as for current,n/a,no,no,n/a,no,as current,Fast Track is allowed for this project.,No,No,No,No,Yes,Yes
+Copy of FSHA ND-T3-Domik v Derevne-Project D Soft curd launch-RUS Gate 4_v1 with ingredients - Copy (2).xlsm,ND-T3-Domik v Derevne-Project D Soft curd launch-RUS,43569,Natural soft curd with a layer of berry jam (shelf life 21 days),Brand Refresh,"Recipe of skimmed curd base is current. Cream with added 1% sugar. Packaging type and forms are current. Fruit preparations are the same as set yogurts. All ingridients are natural. pH in curd base is 4.3-4.5, Titratable acidity is 110+10 at the end of technological process, 120+10 at the end of ShL. Fruit preparations: bilberry Bx 45+2, Cherry Bx 48+2, Strawberry Bx 44+2                                                                                 ","1-st layer berry jam: sugar, barries,  water, corn starch, concentrated black carrot juice (or without it), thickeners (pectin, guar gum), natural flavor, potassium citrate, concentrated lemon juice; 2-nd layer: skimmed curd, cream, sugar",Nataliya Balashova 1 22-69 / Mikhail Baranov 7 86-59,ESSA,Lianozovo Moscow Russia,Gate 4,Sanwoolu Opeyemi,08.05.2018,Scale Up,Lianozovo Moscow,Lianozovo Moscow,"None. Current thermoforming PS cup with paper wrap-around label ""banderol"" with MixPap lid on line Arcil-2 LMK",Natural soft curd with a layer of berry jam,Brand Refresh. Launch a low out of pocket proposition in consumer crisis period and compete with growing Danon white range,Soft curd and fruit preparations,NA,NA,"pH 4.5±0.1, Titratable acidity is 110+10oT at the end of technological process, pH 4.4 ±0.1, Titratable acidity 120+10oT at the end of ShL",Moisture content in curd base not more than 85%," Current thermoforming PS cup with paper wrap-around label ""banderol"" with MixPap lid on line Arcil-2 LMK",Chilled. Ultra clean filling,"No, only milk protein and lactose",Storage at temperature from +2oC to +6oC before and after opening,At least 21 days,"Women, 25-45  Married, with kids. Working, living in big cities. Middle+ income.",No,No,Storage at temterature from +2oC to +6oC before and after opening,No,Chilled storage,No,Fast Track is NOT allowed for this project.,Yes,No,No,No,Yes,Yes
+Lays BIO - FSHA - In Process 04.03.19 (002).xlsm,Lays Bio Organic PC,"55031 (FR 54093, IB 55015)",Lays Bio,Reframe,"Launch of Organic PC product to IB and FR market. Produced at new Co-man Ibersnacks (Vitoria - Spain). Batch kettle process, using organic oil and potatoes. Salted SKU only - Seasoning SKU to be trailled in May. Exisiting packaging film and format. ",TBC,Dan Pyner,ESSA,Beaumont Park,G2 approved,Helen Booden,2019-03-04 00:00:00,Plant Trial,"Ibersnack Vitoria, Spain","Ibersnack Vitoria, Spain",None,Lays Bio,Organic batch kettle fried potato crisps,Fried,NA,Not provided,Not provided,Low water activity,Nitrogen flush in packaging,Not provided,No allergens in plant,Ambient,Flavour/Texture,French/Spanish market,TBC,"No, RTE",No,n/a,No,No,Fast Track is NOT allowed for this project.,Yes,Yes,Yes,No,No,No
+PRD - Project GOLD BoL - FSHA 23.01.19.xlsm,Project GOLD Corrugate Saving BoL,45554,various PC and Snacks products produced in BoL,Productivity,"Change Artwork, and case count resulting in Volume & Mix saving.
+This covers BoL plant.",Not provided,Mark Tilley / Pauline Rochet,ESSA,70127,G3 Development,Helen Booden,2019-01-15 00:00:00,Scale Up,"BoL, NLD","BoL, NLD",None,various PC and Snacks products from BoL ,"various PC and Snacks products from BoL (Cheetos Chipito, Cheetos Nibbit Rings, Cheetos Nibbit Sticks, Cheetos Ringlings, Lays Bugles, Lays Chips, Lays Deep Ridged, Lays Hamka, Lays Mini Hamka, Lays Max, Lays Pomtips, Lays Sticks, Lays Superchips, Lays Wokkels)",as current products,NA,as current products,as current products,Low water activity,as current products,as current products,as current products,as current products,as current products,as current products,as current products,No,No,None,No,No,Fast Track is allowed for this project.,No,No,No,No,No,No
+PRD - Project GOLD Veurne - FSHA 23.01.2019.xlsm,Project GOLD Film Saving Veurne,41701,various PC and Snacks products produced in Veurne,Productivity,"Change Artwork, and case count resulting in Volume & Mix saving.
+This covers Veurne plant.",Not provided,Mark Tilley / Pauline Rochet,ESSA,70127,G3 Development,Helen Booden,2019-01-15 00:00:00,Scale Up,"Veurne, BE","Veurne, BE",None,various PC and Snacks products from Veurne,"various PC and Snacks products from Veurne (Cheetos, Cheetos Chipito, Cheetos Spinners, Doritos, Lays Ancienne, Lays Chips, Lays Grills, Lays Light, Lays Mama Mia, Lays Max, Lays Paysanne, Lays Superchips, Lays Bugles / B&N 3D, B&N Fritel, Sensations, Oven from Lays)",as current products,NA,as current products,as current products,Low water activity finished product,as current products,as current products,as current products,as current products,as current products,as current products,as current products,No,No,None,No,No,Fast Track is allowed for this project.,No,No,No,No,No,No
